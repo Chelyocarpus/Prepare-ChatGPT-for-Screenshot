@@ -1,4 +1,7 @@
 # Prepare-ChatGPT-for-Screenshot
+<p align="center">
+<img src="GitHub/chatgpt-button-example.png" width="640" height="360">
+  </p>
 
 ## Technical Description
 This script adds a button to the page that removes the overflow and moves the input form, making it easier to take a screenshot of the whole chat interface/conversation. It uses the GM_addStyle function to add custom CSS styles to the page, including positioning the button in the top-right corner and adding some margin to the camera icon.
