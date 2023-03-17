@@ -21,4 +21,4 @@ Click the button, then use the built-in screenshot function (whole page) of your
 * GM_addStyle
 
 ## Issues
-Report issues [here](https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/issues).
+This is a personal script so provided as-is. Still, you can report issues [here](https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/issues).
