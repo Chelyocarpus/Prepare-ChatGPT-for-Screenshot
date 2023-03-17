@@ -1,0 +1,1 @@
+# Prepare-ChatGPT-for-Screenshot
