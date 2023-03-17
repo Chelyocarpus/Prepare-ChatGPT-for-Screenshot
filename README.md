@@ -6,13 +6,19 @@ This script adds a button to the page that removes the overflow and moves the in
 When the button is clicked, the removeElements function is called, which finds all elements with the specified classes and sets their overflow to visible. It then finds the element to remove (using an XPath expression) from the DOM and changes its position to relative. Finally, it removes the button from the DOM.
 
 ## Requirements
-Tampermonkey (or something equivalent)
+* Tampermonkey (or something equivalent)
+
+## Installation
+https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/raw/main/Prepare-ChatGPT-for-Screenshot.user.js
 
 ## Usage
 Click the button, then use the built-in screenshot function (whole page) of your favorite browser.
 
 ## Affected Pages
-https: //chat.openai.com/chat*
+* https: //chat.openai.com/chat*
 
 ## Permissions
-GM_addStyle
+* GM_addStyle
+
+## Issues
+Report issues [here](https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/issues).
