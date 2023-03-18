@@ -15,7 +15,7 @@ When the button is clicked, the removeElements function is called, which finds a
 https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/raw/main/Prepare-ChatGPT-for-Screenshot.user.js
 
 ## Usage
-Click the button, then use the built-in screenshot function (whole page) of your favorite browser.
+Click the button, then use the built-in screenshot (whole page) function of your favorite browser.
 
 ## Affected Pages
 * https: //chat.openai.com/chat*
@@ -24,4 +24,4 @@ Click the button, then use the built-in screenshot function (whole page) of your
 * GM_addStyle
 
 ## Issues
-This is a personal script so provided as-is. Still, you can report issues [here](https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/issues).
+This is a personal script and provided as-is. Still, you can report issues [here](https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot/issues).
