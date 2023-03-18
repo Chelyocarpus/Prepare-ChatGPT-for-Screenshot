@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Prepare ChatGPT for Screenshot
 // @icon         https://www.google.com/s2/favicons?domain=openai.com
-// @namespace    https://github.com/Chelyocarpus/ChatGPT
+// @namespace    https://github.com/Chelyocarpus/Prepare-ChatGPT-for-Screenshot
 // @author       ChatGPT, Goliath
 // @version      1.0
 // @description  Add a button to the page that removes the overflow and moves the input form (will be in the way otherwise)
